@@ -43,6 +43,7 @@ Each prompt in `prompts/` maps to a principle from the lecture:
 ## Usage
 
 Open your coding agent in this directory and either:
+
 - Copy a prompt from `prompts/` and paste it
 - Ask your own question about the NYC 311 data
 
