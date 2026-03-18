@@ -1,0 +1,75 @@
+NYC COMPTROLLER — AUDIT OF THE DEPARTMENT OF BUILDINGS ENFORCEMENT OF BUILDING CODES
+Source: NYC Comptroller's Office
+Report Period: 2022-2023
+
+============================================================
+EXECUTIVE SUMMARY
+============================================================
+
+The NYC Department of Buildings (DOB) relies almost exclusively on 311 complaints to drive enforcement actions for one- and two-family properties. This complaint-driven model creates significant equity concerns and operational bottlenecks.
+
+============================================================
+KEY FINDING 1: COMPLAINT-DRIVEN ENFORCEMENT
+============================================================
+
+- DOB received 74,035 complaints for one- and two-family properties and attempted 71,954 inspections during 2022-2023.
+- DOB cannot determine whether communities most impacted by violations are those with the highest number of actual code violations — they are simply the communities generating the highest number of complaints.
+- DOB has no mechanism to identify whether developers are abusing the anonymous 311 system to target specific communities.
+- Enforcement is reactive rather than proactive — no risk-based prioritization exists.
+
+============================================================
+KEY FINDING 2: EQUITY GAPS — PENALTIES VS. INCOME
+============================================================
+
+- 7 of the top 10 districts with highest assessed penalties had median household incomes below the citywide median of $76,607.
+- Top affected districts by penalty dollars:
+  * Queens CD #12 (Jamaica, Hollis, St. Albans): $1,263,367 in penalties; MHI $74,870; 57.2% Black households
+  * Queens CD #7 (Flushing area): $1,913,013 in penalties; MHI $69,719; 53.9% Asian households
+  * Brooklyn CD #12 (Borough Park, Kensington): $1,326,363 in penalties; MHI $62,458; 62.8% White households
+- Ethnic representation in top 10 penalty districts: Black households most prevalent in 7 of 10; Hispanic among top 2 in 6 of 10.
+- Total penalties on one- and two-family properties: $38.3 million (21% of $186 million assessed citywide).
+
+============================================================
+KEY FINDING 3: ILLEGAL CONVERSION PENALTIES
+============================================================
+
+- Of 17 properties with highest violations/penalties: 116 violations (37% of 314 total) were for illegal conversions, representing $3.9 million (79%) of $5 million in total penalties.
+- 40 illegal conversion violations resulted in default judgments totaling $2,040,330.
+- Default judgments accounted for 63% ($24.3 million) of the $38.3 million in total penalties, despite being imposed on only 21% (2,875 of 13,466) of violations.
+- A single illegal conversion penalty can reach $70,000 (base $15,000 + default $25,000 + daily penalties up to $45,000).
+
+============================================================
+KEY FINDING 4: PLAN REVIEW TIME INCREASES
+============================================================
+
+- Overall citywide increase: 80% in days needed for plan approvals as applications filed increased 106%.
+- Q1 2024 average times for major alterations (one- and two-family):
+  * Citywide average: 124 business days
+  * Queens: 112.1 days (93% increase from 57.9 in Q1 2022)
+  * Bronx: 175.9 days (37% increase from 128.2)
+  * Brooklyn: 130.6 days (87% increase from 69.7)
+  * Manhattan: 150 days (67% increase from 89.9)
+  * Staten Island: 100.8 days (decreased 43%)
+- Plans resided with applicants for approximately 70% of the review period; DOB review consumed ~30% (average 34 business days citywide in Q1 2024).
+
+============================================================
+KEY FINDING 5: UNFAIR ENFORCEMENT DURING PLAN REVIEW
+============================================================
+
+- 4 homeowners were issued 8 "Failure to Comply" violations ($17,500 in penalties) while 7 plans were still pending DOB approval.
+- 3 homeowners were issued 3 FTC violations ($2,500 penalties) within 60 days of plan approval, before they could reasonably complete corrective work.
+
+============================================================
+KEY FINDING 6: HOMEOWNER RELIEF PROGRAM GAPS
+============================================================
+
+- 9,167 Requests for Corrective Action issued.
+- Only 1,735 (19%) confirmed corrected.
+- 1,324 (14%) resulted in OATH violations.
+- 5,504 (60%) remained open with no evidence of re-inspection.
+
+============================================================
+RECOMMENDATIONS
+============================================================
+
+The Comptroller recommended DOB develop proactive, data-driven enforcement strategies rather than relying solely on 311 complaints, and establish safeguards against potential misuse of the anonymous complaint system.

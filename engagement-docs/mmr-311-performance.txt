@@ -1,0 +1,88 @@
+NYC MAYOR'S MANAGEMENT REPORT — 311 CUSTOMER SERVICE CENTER (FY2024)
+Source: Mayor's Management Report, Fiscal Year 2024, pp. 169-174
+Office of Technology and Innovation | Deputy Commissioner: Joe Morrisroe
+
+============================================================
+TOTAL CONTACTS
+============================================================
+
+- FY2024: 38.2 million total contacts across call center, website, mobile, text, and social media.
+- 18.2 million contacts via 311's website — a 21% increase over FY2023.
+- 17.5 million calls received, plus 2.5 million contacts via mobile app, text, and social media.
+- Calls in languages other than English or Spanish increased 21% year over year.
+
+============================================================
+CALL VOLUME TRENDS (in thousands)
+============================================================
+
+311 Calls:
+  FY20: 21,515  |  FY21: 21,715  |  FY22: 18,231  |  FY23: 17,886  |  FY24: 17,458
+  5-year trend: DOWN
+
+Monthly Average Calls:
+  FY20: 1,792.9K  |  FY21: 1,809.5K  |  FY22: 1,519.3K  |  FY23: 1,490.5K  |  FY24: 1,454.8K
+
+311 Online Site Visits:
+  FY20: 10,553K  |  FY21: 13,415K  |  FY22: 13,472K  |  FY23: 15,007K  |  FY24: 18,182K
+  5-year trend: UP
+
+============================================================
+CALL ANSWER RATE VS. TARGET (KEY PERFORMANCE INDICATOR)
+============================================================
+
+Calls answered within 30 seconds:
+  FY20: 72%  |  FY21: 79%  |  FY22: 83%  |  FY23: 85%  |  FY24: 74%
+  FY24 target: 80% — MISSED by 6 percentage points
+  11 percentage-point decrease from FY23 (85%)
+
+Average Wait Time (Tier 1 calls):
+  FY20: 1:15  |  FY21: 0:34  |  FY22: 0:29  |  FY23: 0:17  |  FY24: 0:31
+  FY24 target: 0:30 — MISSED
+  82% increase in wait time from FY23 (17 seconds → 31 seconds)
+
+============================================================
+SERVICE REQUESTS AND INQUIRIES
+============================================================
+
+Completed Service Requests:
+  FY23: 3,404K  |  FY24: 3,600K  (up ~6%; 5-year trend: UP)
+
+Inquiries from Customers:
+  FY23: 19,413K  |  FY24: 27,508K  (up 41%; 5-year trend: UP)
+
+============================================================
+OTHER CHANNELS (in thousands)
+============================================================
+
+- Spanish language calls: FY24: 575 (5-year trend: DOWN)
+- Mobile app contacts: FY24: 2,165 (5-year trend: NEUTRAL)
+- 311-NYC text contacts: FY24: 308 (5-year trend: DOWN)
+
+============================================================
+CUSTOMER SATISFACTION
+============================================================
+
+- Customer satisfaction index: FY24: 93% (consistent FY20-FY24, range 92-94%)
+- E-mails responded to in 14 days: 100% every year FY20-FY24
+
+============================================================
+AGENCY RESOURCES
+============================================================
+
+- Expenditures: FY24: $61.9M (plan: $56.7M; 5-year trend: UP)
+- Personnel: FY24: 379 (plan: 396; 5-year trend: NEUTRAL)
+- Overtime paid: FY24: $239K (down from $400K in FY20; 5-year trend: DOWN)
+
+============================================================
+EQUITY FOCUS
+============================================================
+
+- Services available via phone in 175 languages, 24/7/365.
+- Expanded automated messaging to 10 designated citywide languages.
+
+============================================================
+DATA NOTES
+============================================================
+
+- FY24 mobile app contacts data missing December through February; values were imputed using fiscal year averages.
+- Peak/off-peak wait time indicators were removed and replaced with a single "Average wait time (tier 1 calls)" indicator.

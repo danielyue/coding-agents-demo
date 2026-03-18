@@ -1,0 +1,11 @@
+FINDINGS.md
+RECOMMENDATIONS.md
+*.xlsx
+*.png
+*.jpg
+*.svg
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.DS_Store
