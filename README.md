@@ -9,7 +9,7 @@ Students use a coding agent (Claude Code, Gemini CLI, Codex CLI, or similar) to 
 1. **Node.js 20+** — required by most coding agent CLIs
 2. **A coding agent installed** — follow the [setup guide on the course website](https://ai-for-business.notion.site) to install one of:
    - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) (`npm install -g @anthropic-ai/claude-code`)
-   - [Gemini CLI](https://github.com/google-gemini/gemini-cli) (`npm install -g @anthropic-ai/claude-code` then follow Gemini docs)
+   - [Gemini CLI](https://github.com/google-gemini/gemini-cli) (`npm install -g @google/gemini-cli`)
    - [Codex CLI](https://github.com/openai/codex) (`npm install -g @openai/codex`)
    - [OpenCode](https://github.com/opencode-ai/opencode) (Go binary)
 
@@ -35,10 +35,10 @@ bash setup.sh
 
 Each prompt in `prompts/` maps to a principle from the lecture:
 
-1. **Tool Use in a Loop** (`01-tool-use.md`) — Read documents, produce a findings memo
-2. **Search Tools Build Context** (`02-context.md`) — Ask a strategic question, watch the agent find its own sources
-3. **Agents Introspect and Extend** (`03-extensibility.md`) — Data analysis with auto-recovery from missing packages
-4. **Climbing the Ladder of Abstraction** (`04-abstraction.md`) — Strategic synthesis across qualitative and quantitative sources
+1. **Tool Use in a Loop** (`01-tool-use.md`) — Use Claude Code to clone this repo and run setup. The simplest tool loop: git clone → run script → observe output.
+2. **Search Tools Build Context** (`02-context.md`) — Read engagement documents and produce a findings memo. The agent searches for and reads files on its own.
+3. **Agents Introspect and Extend** (`03-extensibility.md`) — Analyze data using DuckDB. The agent researches, installs, and uses a tool it didn't have before.
+4. **Climbing the Ladder of Abstraction** (`04-abstraction.md`) — Orchestrated strategic synthesis with plan mode, sub-agent critique, and iterative refinement.
 
 ## Usage
 
