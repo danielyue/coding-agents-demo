@@ -5,7 +5,7 @@ The most complex demo. The agent orchestrates a multi-step investigation with it
 ## Prompt
 
 ```text
-Use /plan mode. The city wants to reduce average resolution time by 30% without increasing headcount. You have audit reports in engagement-docs/ and 311 data in ops_data.csv. Develop three concrete recommendations. Each must cite BOTH qualitative and quantitative evidence. Write to RECOMMENDATIONS.md. Then use a subagent to critique it. Then plan how to solve the critiques, implement new analyses, and update RECOMMENDATIONS.md. Iterate until you hit a point of saturation.
+Use /plan mode. The city wants to reduce average resolution time by 30% without increasing headcount. You have audit reports in engagement-docs/ and 311 data in ops_data.csv. Develop three concrete recommendations. Each must cite BOTH qualitative and quantitative evidence. Write to RECOMMENDATIONS.md. The document should weave together qualitative discussion and quantitative evidence into a clear narrative, as if a final report for the mayor. Then use a subagent to critique it. Then plan how to solve the critiques, implement new analyses, and update RECOMMENDATIONS.md. Iterate until you hit a point of saturation.
 ```
 
 ## What to Watch
