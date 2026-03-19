@@ -1,5 +1,9 @@
 FINDINGS.md
 RECOMMENDATIONS.md
+demo-showcase.md
+resolution-time-analysis.md
+*.sql
+analyze*.py
 *.xlsx
 *.png
 *.jpg
