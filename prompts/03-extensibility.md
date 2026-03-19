@@ -5,7 +5,10 @@ The agent learns a new capability mid-task. Instead of using pandas (which it al
 ## Prompt
 
 ```text
-I'd like you to analyze ops_data.csv using DuckDB instead of pandas. Can you research how to set up DuckDB as a skill or capability, install what you need, and then use it to compute resolution times by complaint type and borough? Identify the worst performers and look for patterns that explain why some categories take much longer. Produce a summary report.
+I'd like you to analyze ops_data.csv using DuckDB instead of pandas. 
+- First, research how you are supposed to format skills within this local project using SKILL.md files.
+- Then, research how to set up DuckDB as a skill or capability, and install the skill locally in this project.
+- Finally, write a python script use it to compute resolution times by complaint type and borough. Use `uv` to manage python dependencies. Identify the worst performers and look for patterns that explain why some categories take much longer. Produce a summary report.
 ```
 
 ## What to Watch
